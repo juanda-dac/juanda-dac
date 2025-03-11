@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a deep love for technology and a comm
 ## 🔧 Technologies & Tools 🧰
 
 - **Design:** HTML & CSS.
-- **Languages:** JavaScript, Typescript, Python, Java.
+- **Languages:** JavaScript, Typescript, Python, Java & kotlin
 - **Frameworks:** React, Astro, TailwindCSS, Bootstrap, Node.js, Express, Spring Boot.
 - **Databases:** MySQL, SQLite, MongoDB.
 - **Tools:** Git, REST APIs, GraphQL.
